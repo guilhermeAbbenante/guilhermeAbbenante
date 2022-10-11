@@ -1,6 +1,7 @@
 # Olá, eu sou o Guilherme Abbenante 👋
 
 - 🌱 Cursando Ciência da Computação 2/8
+- 📫 Contato: guixtx@gmail.com
 
 <div align="center">
   <a href="https://github.com/guilhermeAbbenante">
